@@ -1,0 +1,20 @@
+{
+  "name": "create-nuxt-app-test2",
+  "version": "1.0.0",
+  "description": "My rad Nuxt.js project",
+  "author": "h-marei",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
